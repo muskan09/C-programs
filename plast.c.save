@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+int a=8;
+long int y;
+y=(long int)x;
+printf("%d",y);
+return 0;
+}
